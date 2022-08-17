@@ -1,0 +1,15 @@
+E:\Git repository\VSCTest\C#Test\bin\Debug\net6.0\C#Test.exe
+E:\Git repository\VSCTest\C#Test\bin\Debug\net6.0\C#Test.deps.json
+E:\Git repository\VSCTest\C#Test\bin\Debug\net6.0\C#Test.runtimeconfig.json
+E:\Git repository\VSCTest\C#Test\bin\Debug\net6.0\C#Test.dll
+E:\Git repository\VSCTest\C#Test\bin\Debug\net6.0\C#Test.pdb
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\C#Test.csproj.AssemblyReference.cache
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\C#Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\C#Test.AssemblyInfoInputs.cache
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\C#Test.AssemblyInfo.cs
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\C#Test.csproj.CoreCompileInputs.cache
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\C#Test.dll
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\refint\C#Test.dll
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\C#Test.pdb
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\C#Test.genruntimeconfig.cache
+E:\Git repository\VSCTest\C#Test\obj\Debug\net6.0\ref\C#Test.dll
